@@ -3,6 +3,10 @@
 The repo provides a various tools for interact (somehow)
 with HAProxy Stats API.
 
+> **Please note that this project is at development stage.
+> This is first beta or even PoC and everything could be
+> changed!**
+
 ## HAPPI: HAProxy API
 
 HTTP API Server that can help with communicate with HAProxy
